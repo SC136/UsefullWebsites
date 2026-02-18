@@ -7,5 +7,5 @@ https://p2r3.github.io/convert/
 ## email clients
 https://loops.so/
 
-##ui
+## ui
 https://21st.dev/community/components

@@ -15,7 +15,14 @@ https://yourascii.vercel.app/
 https://macosicons.com/
 
 https://www.backgrounds.supply/
+gradient backgrounds - https://grainient.supply/
 
 https://delphi.tools/
 
 https://bestdesignsonx.com/
+
+website inspiration - https://craftwork.design/curated/websites/
+
+fonts - https://fontshare.com/
+
+bento grids - https://bentogrids.com/

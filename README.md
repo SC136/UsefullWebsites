@@ -26,3 +26,8 @@ website inspiration - https://craftwork.design/curated/websites/
 fonts - https://fontshare.com/
 
 bento grids - https://bentogrids.com/
+
+https://impeccable.style/
+https://www.tasteskill.dev/
+https://layers.jamiemill.com/
+https://app.superdesign.dev/

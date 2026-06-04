@@ -3,6 +3,7 @@
 ## tools
 - https://www.autocropper.io/
 - https://p2r3.github.io/convert/
+- https://checkmygit.com/
 
 ## email clients
 https://loops.so/

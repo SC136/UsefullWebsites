@@ -31,3 +31,5 @@ https://impeccable.style/
 https://www.tasteskill.dev/
 https://layers.jamiemill.com/
 https://app.superdesign.dev/
+
+https://bnbicons.com/

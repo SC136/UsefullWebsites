@@ -4,6 +4,7 @@
 - https://www.autocropper.io/
 - https://p2r3.github.io/convert/
 - https://checkmygit.com/
+- https://designtools.fyi/
 
 ## email clients
 https://loops.so/

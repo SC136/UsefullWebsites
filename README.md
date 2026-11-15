@@ -5,6 +5,7 @@
 - https://p2r3.github.io/convert/
 - https://checkmygit.com/
 - https://designtools.fyi/
+- https://nostairsplease.com/ (22,500+ live music venues across US & Canada + MCP server)
 
 ## email clients
 https://loops.so/

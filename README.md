@@ -35,3 +35,7 @@ https://layers.jamiemill.com/
 https://app.superdesign.dev/
 
 https://bnbicons.com/
+
+
+### emails
+https://loops.so/
